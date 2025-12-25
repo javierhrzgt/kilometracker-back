@@ -1,0 +1,13 @@
+{
+  "name": "kilometracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abraham Hernandez <javierhrzgt>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.26.0"
+}
